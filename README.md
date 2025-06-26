@@ -1,3 +1,13 @@
+## Setup and dependencies 
+
+Dependencies:
+- python 3.6
+- pytorch >=1.2
+- numpy
+- sklearn
+- tqdm
+
+
 ## Resources:
 + README.md: this file.
 + data: The datasets used in paper.
@@ -18,5 +28,5 @@
 	DB08532 O00341 FC1=CC=CC=C1C1=... MVPHAILARGRDVCRRNGLLI... 0
 
 	```
-
+### Architecture:
 ![Preview](Assets/DTI.png)
